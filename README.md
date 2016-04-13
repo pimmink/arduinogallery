@@ -1,13 +1,13 @@
 
 ----------------------------------------------------------------------------
-                         	     PIMMINK
+PIMMINK
 
-                                Version 1.0.0
+Version 1.0.0
 ----------------------------------------------------------------------------
-                         (c)Copyright,  PIMMINK 2016
+(c)Copyright,  PIMMINK 2016
 ----------------------------------------------------------------------------
 This README contains how to make a Arduino Photo Gallery with a
-Potentiometer and Processing
+Potentiometer and Processing.
 ----------------------------------------------------------------------------
 
 What do you need
